@@ -9,7 +9,7 @@ from datetime import datetime
 from os.path import exists, isfile
 
 
-env.hosts = ['100.24.72.250', '34.229.69.39']
+env.hosts = ['3.94.185.2', '100.26.132.107']
 env.user = 'ubuntu'
 
 
